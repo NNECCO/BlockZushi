@@ -1,0 +1,10 @@
+C:\Users\shitu\source\repos\EntranceOfGame\BlockZushi\bin\Debug\BlockZushi.exe.config
+C:\Users\shitu\source\repos\EntranceOfGame\BlockZushi\bin\Debug\BlockZushi.exe
+C:\Users\shitu\source\repos\EntranceOfGame\BlockZushi\bin\Debug\BlockZushi.pdb
+C:\Users\shitu\source\repos\EntranceOfGame\BlockZushi\obj\Debug\BlockZushi.csprojAssemblyReference.cache
+C:\Users\shitu\source\repos\EntranceOfGame\BlockZushi\obj\Debug\BlockZushi.Main.resources
+C:\Users\shitu\source\repos\EntranceOfGame\BlockZushi\obj\Debug\BlockZushi.Properties.Resources.resources
+C:\Users\shitu\source\repos\EntranceOfGame\BlockZushi\obj\Debug\BlockZushi.csproj.GenerateResource.cache
+C:\Users\shitu\source\repos\EntranceOfGame\BlockZushi\obj\Debug\BlockZushi.csproj.CoreCompileInputs.cache
+C:\Users\shitu\source\repos\EntranceOfGame\BlockZushi\obj\Debug\BlockZushi.exe
+C:\Users\shitu\source\repos\EntranceOfGame\BlockZushi\obj\Debug\BlockZushi.pdb
